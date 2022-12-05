@@ -3,7 +3,11 @@
 Fascinado por tecnologia e como as coisas funcionam.
 
 Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum do que falhas talentosas. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. Educação não excede. O mundo está cheio de tolos educados. Somente a persistência e a determinação são poderosas.
- 
+
+
+
+Tecnologias que eu domínio.
+
 <div>
  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" height="30" width="30">      
  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" height="30" width="30"> 
