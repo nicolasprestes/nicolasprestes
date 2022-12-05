@@ -1,7 +1,8 @@
-# Nicolas Prestes, Full Stack Developer
+# Nicolas Prestes
 
 Fascinado por tecnologia e como as coisas funcionam.
 
+Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum do que falhas talentosas. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. Educação não excede. O mundo está cheio de tolos educados. Somente a persistência e a determinação são poderosas.
  
 <div>
  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" height="30" width="30">      
@@ -12,4 +13,11 @@ Fascinado por tecnologia e como as coisas funcionam.
  <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" height="30" width="30">      
  <img src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" height="30" width="30">      
  <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" height="30" width="30">      
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/dev-prestes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/eaee.prestes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
