@@ -6,7 +6,7 @@ Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada m
 
 
 
-Tecnologias que eu domínio.
+Tecnologias que eu domino.
 
 <div>
  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" height="30" width="30">      
