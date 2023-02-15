@@ -18,10 +18,3 @@ Tecnologias que eu domino.
  <img src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" height="30" width="30">      
  <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" height="30" width="30">      
 </div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/dev-prestes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-782f51?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/eaee.prestes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-782f51?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
